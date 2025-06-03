@@ -6,6 +6,7 @@ import threading
 from pathlib import Path
 import time
 
+
 TEMPLATES = {
     "Next.js": {
         "folders": [".next", "node_modules", "dist", "build", ".cache"],
