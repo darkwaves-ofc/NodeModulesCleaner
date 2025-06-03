@@ -28,7 +28,7 @@ jobs:
           pyinstaller --name ProjectCleanerPro --onefile --windowed main.py
 
       - name: Upload Executable to Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3.1.3
         with:
           name: ProjectCleanerPro
           path: dist/ProjectCleanerPro.exe
