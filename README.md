@@ -19,9 +19,7 @@
 
 ## 📸 Screenshot
 
-![Project Cleaner Pro UI](screenshots/screenshot.png)
-
-> Replace `screenshot.png` with your actual screenshot file after running the app.
+![Project Cleaner Pro UI](https://github.com/darkwaves-ofc/NodeModulesCleaner/blob/f6057322ee292b10618cd4d68f330933f650a365/screenshots/image.png)
 
 ---
 
